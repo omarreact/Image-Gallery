@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Image-Gallery/static/css/main.b4226b02.chunk.css",
+    "main.js": "/Image-Gallery/static/js/main.ccdcfc24.chunk.js",
+    "main.js.map": "/Image-Gallery/static/js/main.ccdcfc24.chunk.js.map",
+    "runtime-main.js": "/Image-Gallery/static/js/runtime-main.131e7fec.js",
+    "runtime-main.js.map": "/Image-Gallery/static/js/runtime-main.131e7fec.js.map",
+    "static/css/2.0b4032cb.chunk.css": "/Image-Gallery/static/css/2.0b4032cb.chunk.css",
+    "static/js/2.3894cb7e.chunk.js": "/Image-Gallery/static/js/2.3894cb7e.chunk.js",
+    "static/js/2.3894cb7e.chunk.js.map": "/Image-Gallery/static/js/2.3894cb7e.chunk.js.map",
+    "index.html": "/Image-Gallery/index.html",
+    "precache-manifest.a32b90ac2f7f658b84afc2a1cb7dc0da.js": "/Image-Gallery/precache-manifest.a32b90ac2f7f658b84afc2a1cb7dc0da.js",
+    "service-worker.js": "/Image-Gallery/service-worker.js",
+    "static/css/2.0b4032cb.chunk.css.map": "/Image-Gallery/static/css/2.0b4032cb.chunk.css.map",
+    "static/css/main.b4226b02.chunk.css.map": "/Image-Gallery/static/css/main.b4226b02.chunk.css.map",
+    "static/js/2.3894cb7e.chunk.js.LICENSE.txt": "/Image-Gallery/static/js/2.3894cb7e.chunk.js.LICENSE.txt",
+    "static/media/image-1.webp": "/Image-Gallery/static/media/image-1.779de01e.webp",
+    "static/media/image-10.jpeg": "/Image-Gallery/static/media/image-10.eedaad52.jpeg",
+    "static/media/image-11.jpeg": "/Image-Gallery/static/media/image-11.6f96b73c.jpeg",
+    "static/media/image-2.webp": "/Image-Gallery/static/media/image-2.a94d5c37.webp",
+    "static/media/image-3.webp": "/Image-Gallery/static/media/image-3.7d48af12.webp",
+    "static/media/image-4.webp": "/Image-Gallery/static/media/image-4.a1f1f7a8.webp",
+    "static/media/image-5.webp": "/Image-Gallery/static/media/image-5.46ae4ce1.webp",
+    "static/media/image-6.webp": "/Image-Gallery/static/media/image-6.3372501b.webp",
+    "static/media/image-7.webp": "/Image-Gallery/static/media/image-7.33e3c941.webp",
+    "static/media/image-8.webp": "/Image-Gallery/static/media/image-8.23e4493d.webp",
+    "static/media/image-9.webp": "/Image-Gallery/static/media/image-9.b32cd2c6.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.131e7fec.js",
+    "static/css/2.0b4032cb.chunk.css",
+    "static/js/2.3894cb7e.chunk.js",
+    "static/css/main.b4226b02.chunk.css",
+    "static/js/main.ccdcfc24.chunk.js"
+  ]
+}
